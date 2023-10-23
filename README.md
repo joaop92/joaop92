@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaop92&label=Profile%20views&color=0e75b6&style=flat" alt="joaop92" /> </p>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/joaopinteraminense/](https://www.linkedin.com/in/joaopinteraminense/)
+- 📄  [https://www.linkedin.com/in/joaopinteraminense/](https://www.linkedin.com/in/joaopinteraminense/)
 
-- ⚡ Fun fact **Eu sou curioso, e bastante cómico e muito dinâmico me viro com tudo que posso...**
+- ⚡  **Eu sou curioso, e bastante cómico e muito dinâmico me viro com tudo que posso...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
