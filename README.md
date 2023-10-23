@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaop92&label=Profile%20views&color=0e75b6&style=flat" alt="joaop92" /> </p>
 
 - 📄  [https://www.linkedin.com/in/joaopinteraminense/](https://www.linkedin.com/in/joaopinteraminense/)
-
+- 📄   [joaopinteraminense@gmail.com/](joaopinteraminense@.gmail.com/)
 - ⚡  **Eu sou curioso, e bastante cómico e muito dinâmico me viro com tudo que posso...**
 
 <h3 align="left">Connect with me:</h3>
