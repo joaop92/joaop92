@@ -7,6 +7,7 @@
 
 - 📄  [https://www.linkedin.com/in/joaopinteraminense/](https://www.linkedin.com/in/joaopinteraminense/)
 - 📪   [joaopinteraminense@gmail.com/](joaopinteraminense@.gmail.com/)
+- ☁️  [https://www.salesforce.com/trailblazer/jpaulointeraminense/](https://www.salesforce.com/trailblazer/jpaulointeraminense)
 - ⚡  **Eu sou curioso, e bastante cómico e muito dinâmico me viro com tudo que posso...**
 
 <h3 align="left">Connect with me:</h3>
