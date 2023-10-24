@@ -1,12 +1,12 @@
-### Olá 👋
+### 👋 👾 🚀
 
-<h1 align="center">Opa 👋, Eu sou João Paulo Interaminense</h1>
+<h1 align="center">Opa, meu patrão👋, Eu sou João Paulo Interaminense</h1>
 <h3 align="center">Meu nome é João Paulo  e sou um desenvolvedor front-end com conhecimento em  ciência de dados e Salesforce.  No front-end, sou proficiente em HTML, CSS e JavaScript. Eu também tenho experiência em frameworks como React,  Na ciência de dados, sou proficiente em Python. Eu tenho conhecimento em uma variedade de técnicas de aprendizado de máquina, incluindo regressão, classificação e agrupamento.  No Salesforce, sou estudante da área onde pretendo futuramente me dedicar um pouco mais e tirar certificado de administrador salesforce. Eu tenho conhecimento em  integração de sistemas e gerenciamento de dados.  Estou sempre procurando por novas oportunidades para aprender e crescer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaop92&label=Profile%20views&color=0e75b6&style=flat" alt="joaop92" /> </p>
 
 - 📄  [https://www.linkedin.com/in/joaopinteraminense/](https://www.linkedin.com/in/joaopinteraminense/)
-- 📄   [joaopinteraminense@gmail.com/](joaopinteraminense@.gmail.com/)
+- 📪   [joaopinteraminense@gmail.com/](joaopinteraminense@.gmail.com/)
 - ⚡  **Eu sou curioso, e bastante cómico e muito dinâmico me viro com tudo que posso...**
 
 <h3 align="left">Connect with me:</h3>
